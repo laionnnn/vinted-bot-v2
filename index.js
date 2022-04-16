@@ -227,4 +227,4 @@ client.on('interactionCreate', (interaction) => {
     }
 });
 
-client.login(OTY0OTAzODQxMDU5NDYzMjU5.Ylraug.AznbJtLkLWUsAVZvrL4CpfqfpEA);
+client.login("OTY0OTAzODQxMDU5NDYzMjU5.Ylraug.AznbJtLkLWUsAVZvrL4CpfqfpEA");
